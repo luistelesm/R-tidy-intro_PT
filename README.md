@@ -10,15 +10,6 @@ Baseia-se sobretudo em versões traduzidas dos seguintes cursos:
 Licença [CC BY-SA 4.0]("https://creativecommons.org/licenses/by-sa/4.0/")
 
 
-"Module 1: Introduction to R
- (4 hours) "	Module 2: Data Management/Treatment in R (4 hours) 
-What is R?​  	Importing data into R.​  
-How to install and set up R.​  	Understanding data structures and subsetting.​  
-Basic syntax and commands.​  	Data cleaning: missing values, outliers and transformations.​  
-Data types, objects and classes.​  	Merging datasets.​  
-
-
-
 ## Conteúdos
 
 ### Módulo 1 – Introdução ao R:
