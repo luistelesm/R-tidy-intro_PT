@@ -1,0 +1,6 @@
+install.packages('tidyverse')
+install.packages('palmerpenguins')
+install.packages('shiny')
+install.packages('Rmarkdown')
+install.packages('plotly')
+install.packages('babynames')
