@@ -2,6 +2,8 @@
 
 Este repositório contém materiais de aprendizagem em português sobre o software R e a sua utilização para tratamento de dados, análise estatística e modelação econométrica.
 
+![]('img/readme_cover.png')
+
 ### Conteúdos
 
 - "Slides" dos módulos 1. e 2.1.
