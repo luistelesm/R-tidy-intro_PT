@@ -2,3 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
+
+*.Rproj
+
+*.pdf
+*.pptx
+*.key
+!slides/*.pdf
+
+~$*
