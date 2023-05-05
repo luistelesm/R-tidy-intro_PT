@@ -1,4 +1,4 @@
-# Módulo de introdução ao R e ao Tidyverse
+# Introdução ao R e ao Tidyverse
 
 Este repositório contém materiais de aprendizagem em português sobre R e Tidyverse.
 
@@ -7,7 +7,7 @@ Baseia-se sobretudo em versões traduzidas dos seguintes cursos:
 - [Data Science in a Box](https://datasciencebox.org)
 - [Remaster the Tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse)
 
-Licença: [CC BY-SA 4.0]("https://creativecommons.org/licenses/by-sa/4.0/")
+Licença [CC BY-SA 4.0]("https://creativecommons.org/licenses/by-sa/4.0/")
 
 
 ## Conteúdos
