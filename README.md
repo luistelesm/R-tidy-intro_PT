@@ -1,25 +1,20 @@
-# Introdução ao R e ao Tidyverse
+# Introdução ao R (e ao Tidyverse)
 
-Este repositório contém materiais de aprendizagem em português sobre R e Tidyverse.
+Este repositório contém materiais de aprendizagem em português sobre o software R e a sua utilização para tratamento de dados, análise estatística e modelação econométrica.
 
-Baseia-se sobretudo em versões traduzidas dos seguintes cursos:
+### Conteúdos
+
+- "Slides" dos módulos 1. e 2.1.
+- Códigos R utilizados em aula
+- Exercícios adicionais
+
+### Fontes e disclaimers
+
+Os materiais baseiam-se sobretudo em versões traduzidas e adaptadas de partes dos seguintes cursos:
 
 - [Data Science in a Box](https://datasciencebox.org)
 - [Remaster the Tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse)
 
-Licença [CC BY-SA 4.0]("https://creativecommons.org/licenses/by-sa/4.0/")
+Licença: [CC BY-SA 4.0]("https://creativecommons.org/licenses/by-sa/4.0/")
 
 
-## Conteúdos
-
-### Módulo 1 – Introdução ao R:
-- O que é o R?
-- Como instalar e configurar o R
-- Sintaxe básica e comandos
-- Tipos de dados, objetos e classes
-
-### Módulo 2 – Gestão e tratamento de dados em R:
-- Carregar dados no R
-- Perceber as estruturas de dados; _data wrangling_
-- Limpeza de dados: observações em falta, _outliers_ e transformações
-- Juntar bases de dados (_merge_)
