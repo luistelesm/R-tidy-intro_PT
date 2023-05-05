@@ -2,7 +2,9 @@
 
 Este repositório contém materiais de aprendizagem em português sobre o software R e a sua utilização para tratamento de dados, análise estatística e modelação econométrica.
 
-![]('img/readme_cover.png')
+Preparado para a Autoridade Tributária e Aduaneira no âmbito do projeto REFORM/SC2022/126, _Designing a new valuation model for rural properties in portugal_, Deliverable 4 - Training in R.
+
+<img src = "img/readme_cover_discl.png" width = "30%" height = "30%">
 
 ### Conteúdos
 
