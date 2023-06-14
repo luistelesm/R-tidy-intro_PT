@@ -10,6 +10,11 @@ Preparado para a Autoridade Tributária e Aduaneira no âmbito do projeto REFORM
 
 ### Conteúdos
 
+_Update: 14/06/2023 _
+
+- "Slides" do módulo 2.2
+- Códigos R utilizados em aula
+
 _Update: 05/05/2023 _
 
 - "Slides" dos módulos 1. e 2.1.
